@@ -19,7 +19,7 @@ body {
 	opacity: 1;
 	transition: opacity 0.5s ease;
 	font-size: 18px;
-	color: #020202;  /* police */
+	color: #ffffff;  /* police */
 	--flow-input-btn-font-size: 18px;
 	--flow-primary-color: #FBC531;  /* bouton open wallet */
 	--flow-secondary-color: #333;
