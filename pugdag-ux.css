@@ -19,16 +19,16 @@ body {
 	opacity: 1;
 	transition: opacity 0.5s ease;
 	font-size: 18px;
-	color: #ffffff;  /* police */
+	color: #ffffff;  
 	--flow-input-btn-font-size: 18px;
-	--flow-primary-color: #FBC531;  /* bouton open wallet */
+	--flow-primary-color: #FBC531;  
 	--flow-secondary-color: #333;
-	--flow-border-color: #FBC531; /* Bordures des fenetres */
+	--flow-border-color: #FBC531; 
 	--flow-border-hover-color: #43464A;
 	--flow-tab-font-size: 1.5rem;
 	--flow-link-color: #4C5157;
 	--flow-link-hover-color: #43464A;
-	--flow-btn-hover-border-color: #a57900; /* Permet de modifier le hover du bouton */
+	--flow-btn-hover-border-color: #a57900; 
 	--flow-data-badge-caption: #000;
 	--flow-data-badge-caption-shadow: #4C5157;
 	--flow-data-badge-graph-fill: rgb(0, 105, 95, 0.15);
@@ -40,7 +40,7 @@ body {
 	--flow-graph-stroke-width: 1px;
 	--flow-graph-stroke-opacity: 0.3;
 	--flow-input-min-width: 300px;
-	--flow-input-bg: white; /* password */
+	--flow-input-bg: #445073;
 	--flow-input-color: #2A2B38;
 	--flow-input-placeholder: #555;
 	--flow-input-label-border: 0px;
