@@ -1354,7 +1354,7 @@ export class PugdagWalletUI extends BaseElement{
     let error;
     
     
-    const BN = require(`${process.cwd()}/lib/bn.js`);
+    const BN = require(`bn.js`);
     if (!BN) {
         console.error("BN.js is not loaded correctly.");
         return { data: undefined, error: "BN library not loaded" };
