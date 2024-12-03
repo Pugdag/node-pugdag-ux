@@ -1,0 +1,21 @@
+{
+  "name": "@pugdag/ux",
+  "version": "1.0.30",
+  "description": "Pugdag Wallet User Interface Framework",
+  "main": "pugdag-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pugdag/node-pugdag-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "pugdag-ux.js",
+    "pugdag-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
